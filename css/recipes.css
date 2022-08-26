@@ -1,0 +1,30 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+h1 {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+div {
+    text-align: center;
+}
+
+.dsc {
+    background-color: green;
+    color: white;
+}
+
+.ing {
+    background-color: blue;
+    color: white;
+}
+
+.st {
+    background-color: red;
+    color: white;
+}
+
